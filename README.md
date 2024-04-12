@@ -1,6 +1,14 @@
+
 # YouTube Assistant
 
 The YouTube Assistant is an AI-powered tool designed to extract meaningful insights from YouTube video transcripts. Utilizing the advanced capabilities of LangChain and OpenAI models, this Streamlit-based application sifts through video content, providing users with direct answers to their queries based on the video's transcript. This enhances the accessibility and understanding of video material, making it an invaluable tool for anyone looking to get more out of their video content.
+
+![Screenshot 2024-04-12 105021](https://github.com/Tamiyo22/Video-Summary-Maker/assets/30645979/a7c5958d-f1af-4a8a-b584-7fbc10951ea1)
+![Screenshot 2024-04-12 104958](https://github.com/Tamiyo22/Video-Summary-Maker/assets/30645979/8cfa0a9b-6f38-4c12-a57c-04d9d5f85dda)
+
+
+![Screenshot 2024-04-12 123345](https://github.com/Tamiyo22/Video-Summary-Maker/assets/30645979/a6d3d17c-fb00-487f-8e61-8529e4a6ae84)
+![Screenshot 2024-04-12 123409](https://github.com/Tamiyo22/Video-Summary-Maker/assets/30645979/79369f2e-c01b-461a-8a07-b25902cb1a3e)
 
 ## Features
 
